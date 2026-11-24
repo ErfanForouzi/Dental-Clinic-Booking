@@ -1,0 +1,6 @@
+{
+  "name": "Harborview Dental",
+  "description": "Modern dental clinic website with real-time online appointment booking and a secure clinic management dashboard powered by Supabase.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
